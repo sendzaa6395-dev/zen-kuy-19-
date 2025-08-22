@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'Kanit';
+    src: url('/fonts/Kanit-Regular.ttf') format('truetype');
+}
+
+* {
+    font-family: 'Kanit', sans-serif;
+}
